@@ -1,7 +1,7 @@
 # APS - Arch Pentest Setup 
 Simple script to install pentesting tools on Arch Linux. 
 
-![](https://github.com/Iann-Zorkot/aps/blob/master/aps-print.png?raw=true)
+![](https://github.com/Iann-Zorkot/aps/blob/main/aps-print.png?raw=true)
 
 ## Dependencies
 - [Fish](https://github.com/fish-shell/fish-shell)
