@@ -42,7 +42,7 @@ Simple script to install pentesting tools on Arch Linux.
 - [metabigor](https://github.com/j3ssie/metabigor) 
 - [subfinder](https://github.com/projectdiscovery/subfinder) 
 - [wafw00f](https://github.com/EnableSecurity/wafw00f) 
-- [dirb](https://github.com/v0re/dirb) 
+- [amass](https://github.com/OWASP/Amass) 
 - [android-apktool](https://github.com/iBotPeaches/Apktool) 
 - [secretfinder](https://github.com/m4ll0k/SecretFinder) 
 - [dalfox](https://github.com/hahwul/dalfox) 
@@ -52,3 +52,6 @@ Simple script to install pentesting tools on Arch Linux.
 
 ## Adding more tools
 You can install other tools through the [**blackarch**](https://www.blackarch.org/) repository, added by this script.
+
+## License
+This repository is licensed under the CC0 1.0 Universal license and the Woody Guthrie open license: Anyone found copying this work without my permission will be considered a great friend of mine, because I don't give a durn.
