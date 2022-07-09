@@ -7,7 +7,7 @@ Simple script to install pentesting tools on Arch Linux.
 - [Fish](https://github.com/fish-shell/fish-shell)
 
 ## Installation
-1. `git clone https://github.com/Iann-Zorkot/aps.git # Clone this repository`
+1. `git clone https://github.com/Iann-Zorkot/APS.git # Clone this repository`
 1. `sudo su # Login as root`
 1. `chmod +x arch-pentest-setup.sh && fish ./arch-pentest-setup.sh # Run`
 
